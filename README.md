@@ -1,1 +1,1 @@
-# velemenyoldal
+# Kétoldali Kritika
